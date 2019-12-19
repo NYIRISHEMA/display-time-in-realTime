@@ -1,0 +1,17 @@
+{
+    "name": "NYIRISHEMA/DisplayCurrentTime",
+    "description": "Displaying current time",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "NYIRISHEMA BERTRAND",
+        "email": "shemabertrand808@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Display\\Time\\": "src/"
+        }
+    }
+}
